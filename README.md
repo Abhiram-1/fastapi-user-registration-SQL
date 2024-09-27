@@ -60,3 +60,7 @@ Before you begin, ensure you have met the following requirements:
 
 4. View the list of registered users in the table below the form
 
+
+<img width="325" alt="Screenshot 2024-09-27 at 9 18 34 AM" src="https://github.com/user-attachments/assets/857bf54d-da38-4596-9505-73a072f2aba3">
+
+
